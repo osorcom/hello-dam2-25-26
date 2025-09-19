@@ -11,8 +11,11 @@ País: España :es:
 Fecha: :date: 19 de septiembre de 2025
 
 Cosas que hacer:
+
 [x] Escribir el código
+
 [x] Hacer commit y push
+
 [ ] Escribir un libro
 
 _&copy; 2025 Víctor Català_
